@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I'm Ryan Stone @ Work
+
+
+Swift  
+Functionally Curious  
+Also: [@ryantstone](https://github.com/ryantstone/)
 
 <!--
 **rstone4-chwy/rstone4-chwy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
